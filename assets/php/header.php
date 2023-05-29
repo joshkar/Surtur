@@ -17,7 +17,7 @@ $header = '<div class="d-flex flex-column flex-md-row align-items-center p-3 px-
 <a class="p-2 text-dark" href="https://t.me/UltraSecurity">Telegram</a>
 <a class="p-2 text-dark" href="https://github.com/ultrasecurity/Surtur/issues">Support</a>
 </nav>
-<a class="btn btn-outline-info" href="#">Builder</a>
+<a class="btn btn-outline-info" href="/builder">Builder</a>
 
 </div>
 ';
