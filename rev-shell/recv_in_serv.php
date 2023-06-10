@@ -8,7 +8,7 @@
         
     }elseif ($_SERVER['REQUEST_METHOD'] == 'GET') {
         $output = file_get_contents("check.txt");
-        echo header("Content-length: ". strlen($output));
+        header("Content-length: ". strlen($output));
         echo $output;
     }
         
